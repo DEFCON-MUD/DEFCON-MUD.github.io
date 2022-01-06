@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Church of Wifi"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "A shifty Church for Shifty People."
   links:
     - label: "ChurchofWifi"
       icon: "fas fa-fw fa-link fa-twitter-square"
