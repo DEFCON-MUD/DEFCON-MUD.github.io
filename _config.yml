@@ -59,21 +59,24 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+    - label: "ChurchofWifi"
+      icon: "fas fa-fw fa-link fa-twitter-square"
       url: "https://twitter.com/churchofwifi"
-    - label: "Twitter"
+    - label: "EvilMog"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/evil_mog"
+    - label: "RenderMan"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/ihackedwhat"
 
 footer:
   links:
-    - label: "Website"
+    - label: "Church Of Wifi"
       icon: "fas fa-fw fa-link"
-      url: "https://twitter.com/churchofwifi"
+      url: "https://churchofwifi.org"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/churchofwifi"
 
 defaults:
   # _posts
