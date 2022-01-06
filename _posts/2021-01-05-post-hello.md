@@ -3,7 +3,8 @@ title: "Post: Hello"
 categories:
   - Blog
 tags:
-  - Hello
+  - Post Formats
+  - notice
 ---
 
 **Danger Notice:** The content of this website is not representative of the views of individual members of the `Church of Wifi` or its leadership.
