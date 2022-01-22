@@ -1,2 +1,9 @@
+---
+title: /
+layout: home
+permalink: /
+---
+
 # Welcome
-Welcome to the new church of wifi site, it sure is empty in here.
+
+Bla bla bla bla. Bla bla bla bla bla bla bla bla.
